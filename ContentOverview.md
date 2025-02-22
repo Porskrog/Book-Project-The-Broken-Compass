@@ -70,7 +70,7 @@ Key qualifications and experience:
 
 Current focus:
 - Developing the Moral Dilemma Machine, a tool for testing ethical decision-making capabilities
-- Founding EthiQuest.ai, focusing on ethical leadership in the age of AI
+- Founding [EthiQuest.ai](https://EthiQuest.ai), focusing on ethical leadership in the age of AI
 - Coaching and mentoring program managers and leaders
 
 This combination of academic research, professional certifications, and extensive real-world experience provides a solid foundation for exploring the complexities of ethical leadership in today's rapidly changing business environment.
