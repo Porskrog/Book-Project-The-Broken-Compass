@@ -1,7 +1,30 @@
 # The Broken Compass: A Guide to Ethical Leadership
 
 ## Book Overview
-[Brief description of the book's purpose, target audience, and unique value proposition]
+
+Purpose:
+"The Broken Compass" focuses on the individual leader's ethical journey in an increasingly complex world. Through provocative examples and personal case studies, the book exposes how our ethical decision-making often fails us, not because we lack moral values, but because our internal compass is misaligned or broken.
+
+The timing is critical. As leaders face unprecedented pressures from technological advancement, organizational complexity, and societal changes, the need for strong ethical leadership has never been greater. Yet, many leaders find their traditional approaches to ethical decision-making inadequate for today's challenges.
+
+Drawing from real-world scenarios—like Sarah, a program manager whose reliance on technical expertise blinds her to true leadership responsibilities—the book demonstrates how easily our ethical compass can be thrown off course, and more importantly, how to recalibrate it.
+
+Target Audience:
+Leaders who:
+- Struggle with ethical decisions in complex situations
+- Want to strengthen their personal moral compass
+- Seek to lead with authenticity and ethical clarity
+- Need to navigate the challenges of modern leadership while maintaining integrity
+
+Unique Value Proposition:
+This book delivers:
+- A provocative examination of personal ethical leadership failures and successes
+- Practical insights into building antifragile ethical decision-making capabilities
+- Real-world cases that challenge common assumptions about ethical leadership
+- A framework for developing stronger personal ethical foundations
+- Tools for navigating ethical challenges in today's rapid-paced environment
+
+"The Broken Compass" isn't about preaching ethics—it's about developing the personal ethical strength needed to lead effectively in an increasingly complex world.
 
 ## Key Themes
 - The broken compass metaphor and its significance
