@@ -9,6 +9,7 @@ This repository contains the manuscript and related materials for "The Broken Co
 [List of chapters]
 
 ## Project Structure
+'''
 The-Broken-Compass/
 │
 ├── README.md               # Project overview, book description
@@ -43,6 +44,7 @@ The-Broken-Compass/
 │
 └── media/               # Any images or diagrams
     └── figures/
+'''
 
 ## Writing Process
 
