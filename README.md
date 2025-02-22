@@ -42,6 +42,8 @@ The-Broken-Compass/
 │   ├── emotional-intelligence.md
 │   ├── antifragile-approach.md
 │   ├── practical-application.md
+│   ├── moral-dilemma-machine.md
+│   ├── facing-global-challenges.md
 │   ├── ethical-organization.md
 │   ├── beyond-boardroom.md
 │   ├── ripple-effect.md
