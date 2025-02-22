@@ -35,4 +35,19 @@
 - Real-world examples and applications
 
 ## Author Background
-[Your relevant experience and qualifications]
+
+Drawing on over two decades of experience as a program manager and consultant, the author has worked with numerous organizations navigating complex ethical challenges in leadership. His unique perspective comes from both academic research and extensive hands-on experience from both vendor and customer perspectives.
+
+Key qualifications and experience:
+- MBA in Project Management
+- IPMA Level A Certification (Certified Projects Director)
+- Doctoral research at Cranfield University under Dr. Harvey Maylor, focusing on program management and ethical leadership principles
+- Over 20 years leading high-stakes IT-related programs across various industries
+- Experience with critical ethical challenges in corporate acquisitions and public tenders
+
+Current focus:
+- Developing the Moral Dilemma Machine, a tool for testing ethical decision-making capabilities
+- Founding EthiQuest.ai, focusing on ethical leadership in the age of AI
+- Coaching and mentoring program managers and leaders
+
+This combination of academic research, professional certifications, and extensive real-world experience provides a solid foundation for exploring the complexities of ethical leadership in today's rapidly changing business environment.
