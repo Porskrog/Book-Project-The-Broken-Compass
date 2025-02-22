@@ -9,8 +9,40 @@ This repository contains the manuscript and related materials for "The Broken Co
 [List of chapters]
 
 ## Project Structure
-
-[Description of the project's file structure]
+The-Broken-Compass/
+│
+├── README.md               # Project overview, book description
+├── ContentOverview.md     # Detailed book outline/content structure
+├── CONTRIBUTING.md        # Guidelines for feedback/contributions
+│
+├── manuscript/            # Main book content
+│   ├── introduction.md
+│   ├── broken-compass.md
+│   ├── pillars/          # Six Pillars chapters
+│   │   ├── trustworthiness.md
+│   │   ├── respect.md
+│   │   ├── responsibility.md
+│   │   ├── fairness.md
+│   │   ├── caring.md
+│   │   └── citizenship.md
+│   ├── emotional-intelligence.md
+│   ├── antifragile-approach.md
+│   ├── practical-application.md
+│   ├── ethical-organization.md
+│   ├── beyond-boardroom.md
+│   ├── ripple-effect.md
+│   └── conclusion.md
+│
+├── drafts/               # Work in progress, early versions
+│   └── [chapter-drafts]
+│
+├── resources/            # Additional materials
+│   ├── case-studies/
+│   ├── exercises/
+│   └── references/
+│
+└── media/               # Any images or diagrams
+    └── figures/
 
 ## Writing Process
 
