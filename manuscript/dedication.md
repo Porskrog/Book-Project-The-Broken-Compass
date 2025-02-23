@@ -1,6 +1,6 @@
 # Dedication
 
-This book, with its provocative tone and unwavering commitment to ethical leadership, is dedicated to my father, who passed away at 91, just five months ago. He was a complex man - a giant upon whose shoulders I stand, who taught me the true meaning of propriety, fairness, and uprightness, often through unconventional means.
+This book, with its provocative tone and unwavering commitment to ethical leadership, is dedicated to my father, who passed away at 91. He was a complex man - a giant upon whose shoulders I stand, who taught me the true meaning of propriety, fairness, and uprightness, often through unconventional means.
 
 My father was not a man of endless patience. He could be sarcastic, even provocative. He had a knack for challenging people, pushing them out of their comfort zones. Yet, beneath this exterior lay a heart of gold and a mind sharp as a tack.
 
