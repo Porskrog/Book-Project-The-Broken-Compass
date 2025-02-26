@@ -1,3 +1,5 @@
+tags:: [[+LinkedIn Posts]]
+
 📌 Når 'forretningsstrategi' misbruges som begreb 🔍
 
 Forretningsstrategi er blevet et misbrugt begreb i den offentlige debat. Gennem årene har jeg observeret ægte værdibaseret forhandling og samarbejde.
