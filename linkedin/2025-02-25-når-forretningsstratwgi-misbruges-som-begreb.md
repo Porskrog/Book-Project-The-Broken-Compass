@@ -34,3 +34,23 @@ Den amerikanske administration synes at følge samme mønster: kaos strategi og 
 Fra et rent ledelsesperspektiv er det foruroligende at se begrebet 'forretningsstrategi' misbrugt til at beskrive adfærd, ingen seriøs virksomhed ville acceptere fra sine ledere.
 
 #Lederskab #Forretningsstrategi #InternationalRelationer #Diplomati #StrategiskLedelse #TillidsBaseredeLedelse #GeopolitiskStrategi #VærdibaserdeRelationer #TrustInLeadership #Enron #NordiskFjer #ErhvervsIntegritet #LæringerFraHistorien #AllianceByggeri #GlobalLedelse #NATOPartnerskab
+
+
+## Kommentarer til indlægget
+
+Søren:
+Tak Mark, for gode spørgsmål.
+
+Når jeg taler om konsistens og troværdighed, henviser jeg til mit 'moralske kompas' (mine tommelfingerregler baseret på Josephson Institute's seks søjler: respekt, ansvar, troværdighed, medborgerskab, omsorg og retfærdighed, som jeg tidligere har skrevet om).
+
+Pointen er, at disse principper ikke kan adskilles fra det, der fungerer i praksis. De er etiske tommelfingerregler, fordi de udgør fundamentet for bæredygtige relationer og resultater. Det er ikke en tilfældighed.
+
+I forretningssammenhæng og internationale relationer ser vi gang på gang, at når disse principper tilsidesættes, kollapser selv tilsyneladende 'succesfulde' konstruktioner - præcis som i tilfældet med Enron.
+
+Så når du spørger, om jeg taler om moral eller etik - ja, det gør jeg, men ikke som abstrakte idealer adskilt fra praksis. Jeg taler om dem som uadskillelige fra det, der skaber ægte værdi på langt sigt.
+
+Troværdighed er ikke bare 'godt' i moralsk forstand - det er nødvendigt for at reducere usikkerhed, skabe forudsigelighed og muliggøre det samarbejde, der skaber værdi.
+
+Mit moralske kompas peger derfor ikke i én retning og praktiske resultater i en anden - de peger samme vej.
+
+Giver det mening, Marc?
