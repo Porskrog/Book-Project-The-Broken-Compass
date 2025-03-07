@@ -1,6 +1,5 @@
-
-From Ørsted’s Write-downs to Project Success
-Introducing the Simple Success Simulator
+## From Ørsted’s Write-downs to Project Success
+### Introducing the Simple Success Simulator
 
 The recent Ørsted case, where significant write-downs shocked the market, raises a crucial question: How can organizations better anticipate and prevent such catastrophic project failures? At EthiQuest, we’ve developed an experimental tool to help leaders understand and visualize the complex dynamics that lead to project success or failure.
 
