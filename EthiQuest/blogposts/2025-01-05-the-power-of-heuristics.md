@@ -1,5 +1,5 @@
-The Power of Heuristics
-Simple Rules for Complex Leadership
+## The Power of Heuristics
+### Simple Rules for Complex Leadership
 
 Last week, while reading Bent Flyvbjerg’s article “Heuristics for Better Project Leadership,” something clicked. Here was a renowned Oxford professor validating what many of us have learned the hard way – simple rules often work better in complex environments than elaborate frameworks.
 
