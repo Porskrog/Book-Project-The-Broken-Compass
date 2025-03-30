@@ -1,5 +1,9 @@
 # The Broken Compass: Understanding Ethical Leadership Failures
 
+<!-- UDVIKL MED: Inkluder afsnit om kognitiv bias i etisk beslutningstagen baseret på Kahneman's arbejde. Se resources/references/theoretical-frameworks.md for detaljer. -->
+
+<!-- UDVIKL MED: Brug prospektteori til at forklare hvorfor ledere tager større etiske risici under pres, særligt når de oplever at være i en "tabsdomæne". -->
+
 Think you're immune to ethical lapses because you're a "good person"? Think again. The road to ethical hell is paved with good intentions and a broken moral compass. Welcome to the treacherous terrain of leadership, where your ethical GPS is constantly recalibrating – and often malfunctioning.
 
 ## The Myth of the Infallible Leader
@@ -9,6 +13,8 @@ Let's start by shattering a comforting delusion: there's no such thing as a perf
 The truth? Every leader, no matter how principled, is one bad decision away from an ethical nosedive. The question isn't if you'll face ethical challenges, but how spectacularly you'll crash and burn when you do.
 
 ## The Slippery Slope of Ethical Decay
+
+<!-- UDVIKL MED: Inddrag litteratur om "normalization of deviance" fra Diane Vaughan's arbejde om Challenger-ulykken. -->
 
 Ethical failures rarely happen overnight. They're the result of a slow, insidious erosion of principles, often so gradual you don't notice until you're in free fall. Here's how it typically goes down:
 
@@ -24,6 +30,8 @@ Ethical failures rarely happen overnight. They're the result of a slow, insidiou
 
 ## Case Study: The Enron Entropy
 
+<!-- UDVIKL MED: Udvid dette afsnit med mere detaljeret analyse af Enron-casen baseret på "The Smartest Guys in the Room" bogen. Fokuser på hvordan "groupthink" og "social proof" bidrog til normaliseringen af uetisk adfærd. -->
+
 Let's take a stroll down memory lane to the Enron debacle – the poster child for ethical leadership failure. 
 
 Enron didn't become a dumpster fire of fraud overnight. It started with "creative" accounting, spiraled into full-blown financial fabrication, and ended in a spectacular implosion that took down thousands of jobs and billions in investments.
@@ -33,6 +41,8 @@ The kicker? Many Enron leaders genuinely believed they were the "good guys" inno
 Lesson learned? Your good intentions are worth exactly zilch if your actions are ethically bankrupt.
 
 ## The Psychological Pitfalls of Power
+
+<!-- UDVIKL MED: Inddrag forskning om hvordan magt påvirker etisk beslutningstagen fra Dacher Keltner og andre. Henvisning til "The Power Paradox" vil være relevant her. -->
 
 Power doesn't just corrupt; it performs a lobotomy on your ethical reasoning. Here's how:
 
@@ -46,6 +56,8 @@ Power doesn't just corrupt; it performs a lobotomy on your ethical reasoning. He
 
 ## The Competence-Character Chasm
 
+<!-- UDVIKL MED: Inddrag "sunk cost fallacy" litteratur her for at forklare hvorfor ledere fortsætter på en uetisk kurs, selv når de indser problemer. Se resources/references/theoretical-frameworks.md -->
+
 Here's a mind-bender for you: your greatest strengths can be the source of your ethical downfall. The very traits that propel leaders to the top can send their moral compass spinning:
 
 1. Confidence becomes arrogance
@@ -56,6 +68,8 @@ Here's a mind-bender for you: your greatest strengths can be the source of your 
 Remember, your stellar MBA doesn't come with a complementary moral backbone. Technical competence without ethical competence is like a high-performance car without brakes – impressive until you need to stop.
 
 ## The Ethical Blind Spots
+
+<!-- UDVIKL MED: Inddrag "bounded rationality" (Herbert Simon) for at forklare hvorfor perfekt etisk ræsonnement er umuligt i komplekse situationer. -->
 
 Even the most ethically intentioned leaders have blind spots big enough to drive a truck through. Here are some common ones:
 
@@ -69,6 +83,8 @@ Even the most ethically intentioned leaders have blind spots big enough to drive
 
 ## The Cultural Corrosion
 
+<!-- UDVIKL MED: Inddrag Irving Janis' "Groupthink" teori for at forklare hvordan organisationskulturer normaliserer uetisk adfærd. -->
+
 Your ethical failure isn't just a personal flaw; it's a contagion that infects your entire organization. Here's how your broken compass creates a culturally corrupt compass:
 
 1. Monkey See, Monkey Do: Your team doesn't just listen to your words; they mimic your actions. Your ethical missteps become their standard operating procedure.
@@ -81,9 +97,13 @@ Your ethical failure isn't just a personal flaw; it's a contagion that infects y
 
 ## The Redemption Fallacy
 
+<!-- UDVIKL MED: Indflet "fangernes dilemma" fra spilteori for at illustrere tillidsopbygnings-dynamikken. Se resources/references/theoretical-frameworks.md -->
+
 Think a public mea culpa and some ethical window dressing will fix your broken compass? Think again. Ethical redemption isn't a PR exercise; it's a painful, prolonged process of rebuilding trust. And here's the kicker – you might never fully recover. Some ethical breaches leave permanent scars.
 
 ## The Way Forward: Ethical Leadership as Continuous Calibration
+
+<!-- UDVIKL MED: Inddrag Robert Axelrod's arbejde om "Evolution of Cooperation" for at forklare, hvordan konsistent etisk adfærd bygger tillid over tid. -->
 
 So, are we all doomed to ethical failure? Only if you're lazy, complacent, or delusional enough to think you've got it all figured out.
 
