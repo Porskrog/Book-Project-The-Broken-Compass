@@ -1,5 +1,9 @@
 # The Ethical Flywheel: Building Unstoppable Momentum Through Principled Leadership
 
+<!-- UDVIKL MED: Inddrag litteratur om itererede spil fra spilteori til at forklare, hvordan dette skaber momentum. Se resources/references/theoretical-frameworks.md -->
+
+<!-- UDVIKL MED: Inkluder forskning om, hvordan konsistent adfærd bygger "etisk kapital" baseret på Axelrod's arbejde om samarbejdets evolution. -->
+
 Think your ethical decisions are isolated moments? Think again. Real ethical leadership isn't about occasional heroic stands; it's about creating a self-reinforcing cycle that builds unstoppable momentum over time. Welcome to the concept of the Ethical Flywheel.
 
 ## The Flywheel Effect in Action
@@ -15,6 +19,8 @@ Here's the critical insight: No single ethical decision transforms your leadersh
 Let's dissect how this mechanism works in ethical leadership:
 
 ### The Axle: Core Principles
+
+<!-- UDVIKL MED: Forbind denne sektion med Gigerenzer's arbejde om effektive heuristikker i beslutningstagning. -->
 
 The flywheel turns around a fixed axle—your non-negotiable ethical principles. Without this stable center, all your pushing creates motion but no momentum.
 
@@ -36,6 +42,8 @@ These principles remain constant while everything else around them can adapt and
 
 ### The First Push: Consistent Actions
 
+<!-- UDVIKL MED: Inddrag Herbert Simon's "bounded rationality" koncept for at forklare hvorfor etiske heuristikker er nødvendige når fuld information ikke er tilgængelig. -->
+
 The flywheel doesn't move by itself. It requires initial force—consistent ethical decisions that may seem to have little visible impact at first.
 
 This stage is where most ethical leadership efforts fail. The wheel feels immovable. Progress is imperceptible. Giving up seems reasonable.
@@ -52,6 +60,8 @@ But physical principles apply: For a flywheel to start turning requires overcomi
 
 ### The First Acceleration: Trust Accumulation
 
+<!-- UDVIKL MED: Forbind til litteratur om fangernes dilemma og tillidsopbygning fra ressourcedokumentet. -->
+
 After consistent pushing, the flywheel begins gaining speed. In ethical leadership, this manifests as trust accumulation.
 
 Trust functions as stored energy in your ethical system. As you consistently make principled decisions, stakeholders begin to trust not just your actions but your intentions. This creates three powerful accelerants:
@@ -64,6 +74,8 @@ Trust functions as stored energy in your ethical system. As you consistently mak
 
 ### The Second Acceleration: Extended Influence
 
+<!-- UDVIKL MED: Relatér dette til litteratur om "social proof" og hvordan etiske normer spreder sig gennem en organisation. -->
+
 As trust builds, your ethical influence extends beyond your direct decisions. This creates the second acceleration:
 
 1. **Normative Impact**: Your ethical choices become the default for others
@@ -74,7 +86,10 @@ This is where energy conservation becomes significant: you no longer need to pus
 
 **Real-World Example**: By year three, Carlos was no longer the only champion of transparency. Directors in other departments began implementing similar practices. New hires were told during onboarding that "transparent problem-solving is part of our culture." When Carlos was on vacation, decisions made in his absence reflected the same ethical framework he had established.
 
+
 ### The Third Acceleration: Institutional Strengthening
+
+<!-- UDVIKL MED: Forbind til afsnittet om "Institutional Fragmentation" og vis hvordan etisk lederskab kan bidrage til at genopbygge institutioner. -->
 
 At this stage, the ethical momentum extends beyond your organization to strengthen broader institutions:
 
@@ -85,6 +100,8 @@ At this stage, the ethical momentum extends beyond your organization to strength
 **Real-World Example**: The transparency protocols Carlos established eventually got presented at industry conferences. A regulatory body consulted him when developing new cybersecurity disclosure guidelines. Most importantly, clients began citing the company's transparency as a key reason for their trust—at a time when trust in tech companies was generally declining.
 
 ### The Reinforcing Cycle: Sustainable Value Creation
+
+<!-- UDVIKL MED: Inddrag forskning om sammenhængen mellem etiske praksisser og langsigtede forretningsresultater. -->
 
 The final stage of the Ethical Flywheel is when it becomes self-reinforcing:
 
@@ -106,6 +123,8 @@ What had started as a purely ethical stance had become a powerful business advan
 
 ## The Anti-Flywheel Effect: When Momentum Works Against You
 
+<!-- UDVIKL MED: Integrer koncepter fra "sunk cost fallacy" og "escalation of commitment" litteraturen for at forklare, hvorfor ledere fortsætter på en uetisk kurs. -->
+
 Just as consistent ethical choices create positive momentum, ethical inconsistency creates negative momentum that becomes increasingly difficult to reverse.
 
 ### Ethical Inconsistency: The Drag on the System
@@ -120,6 +139,8 @@ When leaders make exceptions to ethical principles, they create drag on the flyw
 
 ### The Asymmetry Principle
 
+<!-- UDVIKL MED: Forbind til spilteoriens indsigter om, hvor meget lettere det er at ødelægge tillid end at opbygge den. -->
+
 The most dangerous aspect of the Anti-Flywheel is its asymmetric nature. Trust builds slowly but can collapse rapidly. Consider:
 
 - It takes dozens of consistent ethical choices to build meaningful trust
@@ -133,6 +154,8 @@ The most dangerous aspect of the Anti-Flywheel is its asymmetric nature. Trust b
 So how do you apply the Ethical Flywheel concept in your leadership? Follow this process:
 
 ### Step 1: Define Your Axle - Identifying Core Principles
+
+<!-- UDVIKL MED: Inkluder reference til Sandel's arbejde om moralske grænser for markeder og områder hvor markedsværdier ikke bør dominere. -->
 
 Before pushing the flywheel, you need a solid axle. Work through these exercises:
 
@@ -153,6 +176,8 @@ You should end with 3-5 genuine non-negotiables that can serve as your axle.
 
 ### Step 2: Map Your Consistent Actions
 
+<!-- UDVIKL MED: Inddrag forskning om "implementation intentions" og hvordan specifikke hvis-så planer øger sandsynligheden for at man handler konsistent. -->
+
 With your axle defined, identify the specific, repeated actions that will start your flywheel turning.
 
 **Exercise: Ethical Consistency Mapping**
@@ -168,6 +193,8 @@ With your axle defined, identify the specific, repeated actions that will start 
 - Including limitations and contraindications in all product marketing
 
 ### Step 3: Develop Trust Accelerators
+
+<!-- UDVIKL MED: Forbind til fangernes dilemma og hvordan tillid kan opbygges gennem gensidig sårbarhed. -->
 
 To speed your flywheel's momentum, deliberately build trust-accelerating practices.
 
@@ -185,6 +212,8 @@ To speed your flywheel's momentum, deliberately build trust-accelerating practic
 
 ### Step 4: Extend Your Ethical Influence
 
+<!-- UDVIKL MED: Inddrag litteratur om hvordan normer spreder sig gennem sociale netværk. -->
+
 As your flywheel gains speed, implement practices to extend your ethical influence.
 
 **Exercise: Influence Extension Planning**
@@ -201,6 +230,8 @@ As your flywheel gains speed, implement practices to extend your ethical influen
 
 ### Step 5: Build Institutional Connections
 
+<!-- UDVIKL MED: Forbind til Robert Putnam's arbejde om social kapital og institutionel tillid. -->
+
 In the third acceleration phase, deliberately connect your ethical leadership to broader institutions.
 
 **Exercise: Institutional Strengthening Plan**
@@ -216,6 +247,8 @@ In the third acceleration phase, deliberately connect your ethical leadership to
 - Creating an ethics fellowship program with local universities
 
 ### Step 6: Measure Momentum
+
+<!-- UDVIKL MED: Inkluder referenceliste til empiriske studier der måler etisk performance og dens relation til forretningsresultater. -->
 
 To manage your Ethical Flywheel, you need to measure its momentum.
 
@@ -238,6 +271,8 @@ To manage your Ethical Flywheel, you need to measure its momentum.
 
 ## Overcoming Ethical Flywheel Challenges
 
+<!-- UDVIKL MED: Forbind til afsnittet om "The Affordability of Morality" og diskuter hvordan man håndterer situationer, hvor etisk konsistens synes umulig. -->
+
 Building ethical momentum isn't without obstacles. Here are solutions to common challenges:
 
 ### Challenge 1: Initial Resistance
@@ -251,11 +286,15 @@ When first pushing your ethical flywheel, expect resistance:
 
 ### Challenge 2: Invisible Progress
 
+<!-- UDVIKL MED: Forbind til forskning om hvordan man skaber tålmodighed med langsigtede strategier, når resultater ikke er umiddelbart synlige. -->
+
 Early ethical momentum is often imperceptible, leading to discouragement.
 
 **Solution**: Create leading indicators that show movement before results appear. Measure process changes (e.g., increased reporting of issues) before outcome changes (e.g., reduced incidents) become visible.
 
 ### Challenge 3: Leadership Transitions
+
+<!-- UDVIKL MED: Inddrag forskning om, hvordan organisationskultur kan bevare værdier gennem lederskifter. -->
 
 Leadership changes can halt flywheel momentum if new leaders don't maintain the push.
 
@@ -266,6 +305,8 @@ Leadership changes can halt flywheel momentum if new leaders don't maintain the 
 - Embedding ethical metrics in performance evaluations
 
 ### Challenge 4: Ethical Exceptions Pressure
+
+<!-- UDVIKL MED: Brug kognitiv dissonans teori til at forklare, hvorfor undtagelser skaber stærkt pres for yderligere undtagelser. -->
 
 As your flywheel gains speed, pressure for "just this once" exceptions will increase.
 
