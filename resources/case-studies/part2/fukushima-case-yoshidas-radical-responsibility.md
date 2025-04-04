@@ -15,7 +15,7 @@ Masao Yoshida hadn't aspired to become a hero. A career nuclear engineer with ov
 
 At 56, Yoshida had witnessed the rise of Japan's nuclear industry, which supplied nearly a third of the nation's electricity. He had seen the industry weather controversies and public skepticism. What he could not have imagined was that he would soon face the worst nuclear disaster since Chernobyl.
 
-Colleagues described Yoshida as technically brilliant but also deeply human—quick to laugh, occasionally sharp-tongued, and unafraid to challenge authority when he believed he was right. This willingness to speak truth to power would soon become his most crucial quality. [4]
+Colleagues described Yoshida as technically brilliant but also deeply human — quick to laugh, occasionally sharp-tongued, and unafraid to challenge authority when he believed he was right. This willingness to speak truth to power would soon become his most crucial quality. [4]
 
 ## The Invisible Shield: Nuclear Safety Systems
 
