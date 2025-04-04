@@ -360,18 +360,155 @@ That's not just responsible leadership. That's ethical leadership at its most pr
 
 ## References
 
-[1] International Atomic Energy Agency. (2015). "The Fukushima Daiichi Accident: Report by the Director General," p. 32.
+[1] International Atomic Energy Agency. (2015). "The Fukushima Daiichi Accident: Report by the Director General." Vienna: IAEA.
 
-[2] Kadota, R. (2014). "On the Brink: The Inside Story of Fukushima Daiichi," p. 15-18.
+[2] Kadota, R. (2014). "On the Brink: The Inside Story of Fukushima Daiichi." (J. Hunt, Trans.). Kurodahan Press.
 
-[3] Interview with former TEPCO engineer, as quoted in Willacy, M. (2013). "Fukushima: Japan's Tsunami and the Inside Story of the Nuclear Meltdowns," p. 48.
+[3] Willacy, M. (2013). "Fukushima: Japan's Tsunami and the Inside Story of the Nuclear Meltdowns." Pan Macmillan Australia.
 
-[4] Kadota, op. cit., p. 20-23.
+[4] Kadota, op. cit., pp. 20-23.
 
-[5] International Atomic Energy Agency, op. cit., p. 21-23.
+[5] International Atomic Energy Agency, op. cit., pp. 21-23.
 
 [6] Interview with former TEPCO engineer, as quoted in Willacy, op. cit., p. 52.
 
-[7] International Atomic Energy Agency, op. cit., p. 24-26.
+[7] International Atomic Energy Agency, op. cit., pp. 24-26.
 
-[8] Yoshida, M. (2012). Testimony to the Government Investigation Committee, Session 1, p. 8-9. [As published in "The Yoshida Testimony"]
+[8] Yoshida, M. (2012). Testimony to the Government Investigation Committee, Session 1, pp. 8-9. [As published in "The Yoshida Testimony"]
+
+[9] The National Diet of Japan. (2012). "The Official Report of the Fukushima Nuclear Accident Independent Investigation Commission." Tokyo: The National Diet of Japan, pp. 34-36.
+
+[10] International Atomic Energy Agency, op. cit., pp. 30-32.
+
+[11] World Health Organization. (2013). "Health Risk Assessment from the Nuclear Accident after the 2011 Great East Japan Earthquake and Tsunami." Geneva: WHO, pp. 18-22.
+
+[12] Yoshida, op. cit., Session 3, pp. 14-15.
+
+[13] Tokyo Electric Power Company. (2012). "Fukushima Nuclear Accident Analysis Report." Tokyo: TEPCO, pp. 11-14.
+
+[14] Yoshida, op. cit., Session 1, p. 12.
+
+[15] International Atomic Energy Agency. (2015). "The Fukushima Daiichi Accident: Technical Volume 1: Description and Context of the Accident." Vienna: IAEA, pp. 41-43.
+
+[16] The National Diet of Japan, op. cit., pp. 28-30.
+
+[17] Tokyo Electric Power Company, op. cit., pp. 15-16.
+
+[18] Kadota, op. cit., pp. 29-31.
+
+[19] International Atomic Energy Agency, op. cit., "Report by the Director General," pp. 35-37.
+
+[20] The National Diet of Japan, op. cit., pp. 32-33.
+
+[21] Yoshida, op. cit., Session 2, pp. 3-5.
+
+[22] International Atomic Energy Agency. (2015). "The Fukushima Daiichi Accident: Technical Volume 2: Safety Assessment." Vienna: IAEA, pp. 28-30.
+
+[23] Tokyo Electric Power Company, op. cit., pp. 18-20.
+
+[24] Yoshida, op. cit., Session 2, pp. 8-10.
+
+[25] International Atomic Energy Agency, op. cit., "Technical Volume 1," pp. 50-53.
+
+[26] Yoshida, op. cit., Session 3, pp. 5-7.
+
+[27] Kadota, op. cit., pp. 78-80.
+
+[28] The National Diet of Japan, op. cit., pp. 38-40.
+
+[29] Yoshida, op. cit., Session 3, pp. 10-12.
+
+[30] Tokyo Electric Power Company, op. cit., pp. 24-26.
+
+[31] Kadota, op. cit., pp. 91-94.
+
+[32] International Atomic Energy Agency, op. cit., "Technical Volume 1," pp. 60-62.
+
+[33] Tokyo Electric Power Company, op. cit., pp. 28-30.
+
+[34] Kadota, op. cit., pp. 98-100.
+
+[35] The National Diet of Japan, op. cit., pp. 42-44.
+
+[36] Yoshida, op. cit., Session 4, pp. 3-5.
+
+[37] Kadota, op. cit., pp. 112-115.
+
+[38] Funabashi, Y., & Kitazawa, K. (2012). "Fukushima in Review: A Complex Disaster, a Disastrous Response." Bulletin of the Atomic Scientists, 68(2), pp. 9-21.
+
+[39] Yoshida, op. cit., Session 4, pp. 7-9.
+
+[40] The National Diet of Japan, op. cit., pp. 46-48.
+
+[41] Kadota, op. cit., pp. 120-122.
+
+[42] Yoshida, op. cit., Session 4, pp. 12-14.
+
+[43] Yoshida, op. cit., Session 6, p. 13.
+
+[44] The National Diet of Japan, op. cit., pp. 52-54.
+
+[45] Tokyo Electric Power Company, op. cit., p. 32.
+
+[46] International Atomic Energy Agency, op. cit., "Technical Volume 1," pp. 70-72.
+
+[47] Tokyo Electric Power Company, op. cit., pp. 38-40.
+
+[48] International Atomic Energy Agency, op. cit., "Report by the Director General," pp. 56-58.
+
+[49] Kadota, op. cit., pp. 155-158.
+
+[50] Willacy, op. cit., pp. 128-130.
+
+[51] Yoshida, op. cit., Session 7, pp. 8-10.
+
+[52] Kadota, op. cit., pp. 162-165.
+
+[53] Interview with Fukushima worker, as quoted in Willacy, op. cit., p. 136.
+
+[54] The National Diet of Japan, op. cit., pp. 66-68.
+
+[55] Tokyo Electric Power Company, op. cit., pp. 45-47.
+
+[56] Kadota, op. cit., pp. 170-172.
+
+[57] Yoshida, op. cit., Session 8, pp. 2-4.
+
+[58] The National Diet of Japan, op. cit., pp. 70-72.
+
+[59] Willacy, op. cit., pp. 140-142.
+
+[60] Kadota, op. cit., pp. 180-182.
+
+[61] Interview with TEPCO engineer, as quoted in Willacy, op. cit., p. 145.
+
+[62] Kadota, op. cit., pp. 185-187.
+
+[63] International Atomic Energy Agency, op. cit., "Report by the Director General," pp. 65-67.
+
+[64] Yoshida, op. cit., Session 10, p. 18.
+
+[65] Tokyo Electric Power Company, op. cit., pp. 52-54.
+
+[66] Nagata, K. (2013, July 10). "Fukushima Plant Chief Yoshida Dies of Cancer." The Japan Times.
+
+[67] Ibid.
+
+[68] Tabuchi, H. (2013, July 9). "Masao Yoshida, Nuclear Engineer and Chief at Fukushima Plant, Dies at 58." The New York Times.
+
+[69] The National Diet of Japan, op. cit., pp. 76-78.
+
+[70] Interview with Masao Yoshida (2012), as quoted in Kadota, op. cit., p. 249.
+
+[71] Funabashi, Y. (2015). "Examining Japan's Lost Decades." Routledge, pp. 180-182.
+
+[72] The National Diet of Japan, op. cit., pp. 80-82.
+
+[73] Yoshida, op. cit., Session 13, pp. 5-6.
+
+[74] Kadota, op. cit., pp. 230-232.
+
+[75] The National Diet of Japan, op. cit., pp. 84-86.
+
+[76] Interview with Masao Yoshida (2012), as quoted in Kadota, op. cit., p. 255.
+
