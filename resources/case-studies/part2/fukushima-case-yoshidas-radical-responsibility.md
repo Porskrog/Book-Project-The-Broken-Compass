@@ -19,13 +19,13 @@ Colleagues described Yoshida as technically brilliant but also deeply human—qu
 
 ## The Invisible Shield: Nuclear Safety Systems
 
-To appreciate the weight on Yoshida's shoulders during the crisis, it's essential to understand what he was fighting to preserve. Nuclear power plants represent one of humanity's most complex engineering achievements, designed with multiple overlapping safety systems—a concept engineers call "defense in depth." 
+To appreciate the weight on Yoshida's shoulders during the crisis, it's essential to understand what he was fighting to preserve. Nuclear power plants represent one of humanity's most complex engineering achievements, designed with multiple overlapping safety systems - a concept engineers call "defense in depth." 
 
 At Fukushima Daiichi, this defense consisted of five key layers:
 
 ### 1. The Core Defense: Multiple Physical Barriers
 
-At the heart of each reactor, uranium fuel pellets were sealed inside zirconium alloy tubes called fuel rods. These rods were bundled into fuel assemblies and placed in the reactor core—a massive steel vessel with walls 15 centimeters thick. This vessel was itself enclosed within a primary containment structure made of steel and concrete, designed to prevent radiation release even if the reactor vessel failed. A secondary containment building surrounded all of this, providing yet another layer of protection. [5]
+At the heart of each reactor, uranium fuel pellets were sealed inside zirconium alloy tubes called fuel rods. These rods were bundled into fuel assemblies and placed in the reactor core - a massive steel vessel with walls 15 centimeters thick. This vessel was itself enclosed within a primary containment structure made of steel and concrete, designed to prevent radiation release even if the reactor vessel failed. A secondary containment building surrounded all of this, providing yet another layer of protection. [5]
 
 "We design as if anything that can go wrong, will go wrong," a senior nuclear engineer once explained to Yoshida during his early days at TEPCO. "And then we design for what happens when our designs fail." [6]
 
