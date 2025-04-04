@@ -3,7 +3,7 @@
 
 ## The Ultimate Test of Ethical Leadership
 
-When the magnitude 9.0 earthquake struck off Japan's eastern coast on March 11, 2011, followed by a 15-meter tsunami, Masao Yoshida—plant director at Fukushima Daiichi Nuclear Power Plant - faced a leadership trial few can imagine. In the 72 hours that followed, his decisions would affect not just his team but potentially millions of lives across Japan, with global implications for nuclear safety and energy policy for decades to come. [1]
+When the magnitude 9.0 earthquake struck off Japan's eastern coast on March 11, 2011, followed by a 15-meter tsunami, Masao Yoshida — plant director at Fukushima Daiichi Nuclear Power Plant - faced a leadership trial few can imagine. In the 72 hours that followed, his decisions would affect not just his team but potentially millions of lives across Japan, with global implications for nuclear safety and energy policy for decades to come. [1]
 
 This wasn't just crisis management. This was ethical leadership with the stakes dialed to maximum.
 
