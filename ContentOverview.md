@@ -25,7 +25,7 @@ This book delivers:
 - A framework for developing stronger personal ethical foundations
 - Tools for navigating ethical challenges in today's rapid-paced, technologically transformed environment
 
-"The Broken Compass" isn't about preaching ethics—it's about developing the personal ethical strength needed to lead effectively in an increasingly complex world, where traditional guideposts are failing.
+"The Broken Compass" isn't about preaching ethics - it's about developing the personal ethical strength needed to lead effectively in an increasingly complex world, where traditional guideposts are failing.
 
 ## Book Structure
 
