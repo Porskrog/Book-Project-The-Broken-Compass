@@ -144,6 +144,41 @@ This book delivers:
 - The daily choice and the long-term impact
 - Call to action: Start with your next choice
 
+
+### Part 5: The Ethical Leader's Toolkit
+
+##### Tool 1: The Non-Negotiable Audit
+   - Purpose: Identifying unwavering ethical boundaries
+   - Application: Determining which principles you will not compromise
+   - Case application: Boeing and Sullenberger approaches to safety non-negotiables
+
+##### Tool 2: The Core-Periphery Audit
+   - Purpose: Distinguishing between core principles and flexible expressions
+   - Application: Creating ethical flexibility without compromising integrity
+   - Case application: Adapting values across different contexts while maintaining core principles
+
+##### Tool 3: The Ethical Decision Matrix
+   - Purpose: Navigating complex ethical dilemmas with integrity
+   - Application: Systematically analyzing ethical choices across key dimensions
+   - Case application: LEGO's dilemma regarding diversity reporting requirements
+
+##### Tool 4: The Ethical Risk Exposure Calculator
+   - Purpose: Quantifying moral decision stakes
+   - Application: Using structured analysis to assess ethical risk exposure
+   - Case application: European security alliance dilemma
+
+##### Tool 5: The Ownership Expansion Tool
+   - Purpose: Extending responsibility beyond traditional boundaries
+   - Application: Eliminating blame culture while embracing broader ownership
+   - Case application: Contrasting Deepwater Horizon and Fukushima approaches
+
+##### Tool 6: The Trust Equation Audit
+   - Purpose: Building multi-dimensional trust that withstands challenges
+   - Application: Balancing credibility, reliability, intimacy, and low self-orientation
+   - Case application: Boeing 737 MAX crisis vs. Sullenberger leadership
+
+[Continue with other tools...]
+
 ## Key Features
 - Real-world case studies from both global events and everyday leadership contexts
 - Practical tools and exercises for immediate application
