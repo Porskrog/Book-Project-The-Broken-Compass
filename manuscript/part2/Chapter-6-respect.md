@@ -1,4 +1,4 @@
-# Respect: The Virtue You Lose by Trying to Earn
+# Chapter 6: Respect - The Virtue You Lose by Trying to Earn
 
 Think you're respectful because you say "please" and "thank you"? Congratulations, you've mastered kindergarten-level ethics. Real respect, the kind that forms the bedrock of true leadership, isn't about politeness. It's about having the guts to be honest when it hurts.
 
