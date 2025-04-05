@@ -1,4 +1,4 @@
-# Trustworthiness: The Antifragile Virtue
+# Chapter 5: Trustworthiness - The Antifragile Virtue
 
 Consider this paradox: The more you obsess over your trustworthy reputation, the more fragile that reputation becomes. Welcome to the counterintuitive world of ethical leadership.
 
