@@ -77,7 +77,33 @@ This book delivers:
 - Practical tool: "The Respect Strategy" - deeper respect through honest dialogue
 - Exercise: "Respectful disagreement" - training in constructive conflict
 
-[Similar structure for remaining pillars: Responsibility, Fairness, Caring, and Citizenship]
+#### Chapter 7: Responsibility - Owning Your Mess (And Everyone Else's)
+- Conceptual framework: Expanding your responsibility horizon
+- Global relevance: Responsibility in an age of blame-shifting
+- Everyday case study: Taking ownership beyond job descriptions
+- Practical tool: "The Ownership Expansion Tool" - extending responsibility boundaries
+- Exercise: "Responsibility mapping" - identifying ownership opportunities
+
+#### Chapter 8: Fairness - Beyond Equal Treatment
+- Conceptual framework: Equity vs. equality in ethical leadership
+- Global relevance: Fairness in diverse, multicultural contexts
+- Everyday case study: Creating fair systems in unfair environments
+- Practical tool: "The Equity-Over-Equality Compass" - nuanced fairness decision-making
+- Exercise: "Fairness audit" - examining your decisions through multiple lenses
+
+#### Chapter 9: Caring - The Double-Edged Sword
+- Conceptual framework: Balancing empathy with effectiveness
+- Global relevance: Caring leadership in high-pressure environments
+- Everyday case study: Tough love in team development
+- Practical tool: "The Tough Love Calibrator" - finding the right balance
+- Exercise: "Care assessment" - evaluating genuine vs. performative caring
+
+#### Chapter 10: Citizenship - Leading Beyond Your Backyard
+- Conceptual framework: Expanding impact beyond organizational boundaries
+- Global relevance: Corporate citizenship in a fragmented world
+- Everyday case study: Creating systemic change from the middle
+- Practical tool: "The Systemic Impact Evaluator" - measuring broader impact
+- Exercise: "Citizenship expansion" - identifying opportunities for broader influence
 
 ### Part 3: Practical Navigation - Your Compass in Action
 
@@ -139,45 +165,84 @@ This book delivers:
 - Practical tool: "Micro-to-macro impact" - connect your actions to larger systems
 - Exercise: "Map your global impact"
 
+### Part 5: The Ethical Leader's Toolkit
+
+#### Tool 1: The Non-Negotiable Audit
+- Purpose: Identifying your ethical boundaries
+- When to use: Before facing ethical dilemmas to clarify unwavering principles
+- Process: Four-stage methodology to identify genuine non-negotiables
+- Case application: Contrasting Boeing 737 MAX with Captain Sullenberger's leadership
+
+#### Tool 2: The Core-Periphery Audit
+- Purpose: Distinguishing between core principles and flexible expressions
+- When to use: When navigating cross-cultural or contextually complex situations
+- Process: Five-stage process to identify what must remain fixed versus what can adapt
+- Case application: Applying consistent values across different cultural contexts
+
+#### Tool 3: The Trust Equation Audit
+- Purpose: Building multi-dimensional trust that withstands challenges
+- When to use: When establishing or rebuilding trust relationships
+- Process: Five-step method evaluating credibility, reliability, intimacy, and self-orientation
+- Case application: Boeing 737 MAX crisis vs. Sullenberger leadership
+
+#### Tool 4: The Respectful Challenger Framework
+- Purpose: Transforming superficial politeness into genuine respect
+- When to use: When honest feedback or conflict is necessary for growth
+- Process: Five-step approach to respectful truth-telling and challenge
+- Case application: Contrasting Uber's toxic culture with aviation safety improvements
+
+#### Tool 5: The Ownership Expansion Tool
+- Purpose: Systematically expanding responsibility beyond boundaries
+- When to use: When problems fall between organizational cracks
+- Process: Five components to expand personal ownership horizon
+- Case application: Contrasting Deepwater Horizon's diffused responsibility with Fukushima's radical responsibility
+
+#### Tool 6: The Equity-Over-Equality Compass
+- Purpose: Navigating the territory between equal treatment and truly fair outcomes
+- When to use: When addressing diverse needs in complex situations
+- Process: Five-step methodology for equitable decision-making
+- Case application: Wells Fargo account fraud vs. Salesforce equal pay initiative
+
+#### Tool 7: The Tough Love Calibrator
+- Purpose: Balancing genuine care with necessary challenge
+- When to use: When development requires uncomfortable growth
+- Process: Five-component approach to calibrating supportive challenge
+- Case application: Amazon warehouse conditions vs. Chilean mining rescue
+
+#### Tool 8: The Systemic Impact Evaluator
+- Purpose: Assessing broader impact beyond organizational boundaries
+- When to use: When considering organizational citizenship obligations
+- Process: Five-dimension framework for evaluating systemic impact
+- Case application: Enron's systemic damage vs. Patagonia's positive impact
+
+#### Tool 9: The Ethical Decision Matrix
+- Purpose: Navigating complex ethical dilemmas
+- When to use: When facing situations with competing ethical considerations
+- Process: Four-dimension analysis across time, stakeholders, values, and institutions
+- Case application: LEGO's diversity reporting dilemma and European security alliance
+
+#### Tool 10: The Ethical Risk Exposure Calculator
+- Purpose: Quantifying moral decision stakes
+- When to use: For high-stakes decisions with significant ethical components
+- Process: Systematic risk assessment across key ethical dimensions
+- Case application: LEGO case and European security alliance dilemma
+
+#### Tool 11: The Ethical Flywheel
+- Purpose: Building self-reinforcing ethical momentum
+- When to use: When establishing or changing ethical culture
+- Process: Six-stage methodology for creating ethical momentum
+- Case application: General Electric under Jack Welch vs. Interface Carpets
+
+#### Tool 12: The Ethical Framework Integration Tool
+- Purpose: Combining multiple ethical tools into a coherent system
+- When to use: When implementing comprehensive ethical leadership
+- Process: Integration methodology connecting complementary tools
+- Case application: Comprehensive approach to ethical leadership challenges
+
 ### Conclusion: The Recalibrated Compass
 - The personal and global interplay
 - The daily choice and the long-term impact
 - Call to action: Start with your next choice
-
-
-### Part 5: The Ethical Leader's Toolkit
-
-##### Tool 1: The Non-Negotiable Audit
-   - Purpose: Identifying unwavering ethical boundaries
-   - Application: Determining which principles you will not compromise
-   - Case application: Boeing and Sullenberger approaches to safety non-negotiables
-
-##### Tool 2: The Core-Periphery Audit
-   - Purpose: Distinguishing between core principles and flexible expressions
-   - Application: Creating ethical flexibility without compromising integrity
-   - Case application: Adapting values across different contexts while maintaining core principles
-
-##### Tool 3: The Ethical Decision Matrix
-   - Purpose: Navigating complex ethical dilemmas with integrity
-   - Application: Systematically analyzing ethical choices across key dimensions
-   - Case application: LEGO's dilemma regarding diversity reporting requirements
-
-##### Tool 4: The Ethical Risk Exposure Calculator
-   - Purpose: Quantifying moral decision stakes
-   - Application: Using structured analysis to assess ethical risk exposure
-   - Case application: European security alliance dilemma
-
-##### Tool 5: The Ownership Expansion Tool
-   - Purpose: Extending responsibility beyond traditional boundaries
-   - Application: Eliminating blame culture while embracing broader ownership
-   - Case application: Contrasting Deepwater Horizon and Fukushima approaches
-
-##### Tool 6: The Trust Equation Audit
-   - Purpose: Building multi-dimensional trust that withstands challenges
-   - Application: Balancing credibility, reliability, intimacy, and low self-orientation
-   - Case application: Boeing 737 MAX crisis vs. Sullenberger leadership
-
-[Continue with other tools...]
 
 ## Key Features
 - Real-world case studies from both global events and everyday leadership contexts
