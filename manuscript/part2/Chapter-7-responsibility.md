@@ -1,10 +1,10 @@
 # Chapter 7: Responsibility - Owning Your Mess (And Everyone Else's)
 
-Think you're responsible because you meet deadlines and don't leave dirty dishes in the office sink? Cute. Real responsibility is about as comfortable as a bed of nails, and twice as revealing.
+Real responsibility is about as comfortable as a bed of nails, and twice as revealing.
 
 ## The Responsibility Delusion
 
-Here's a shocker for you: The more you talk about being "responsible," the less responsible you probably are. Why? Because truly responsible people are too busy cleaning up messes – theirs and everyone else's – to brag about their dependability.
+The more we talk about being "responsible," the less responsible we probably are. Truly responsible people are too busy cleaning up messes – theirs and everyone else's – to brag about their dependability.
 
 When disaster struck the Deepwater Horizon oil rig in the Gulf of Mexico on April 20, 2010, we witnessed this truth play out on a catastrophic scale. As methane gas surged up the drill column and ignited, killing eleven workers and initiating what would become the largest accidental marine oil spill in history, a fateful pattern was already well established: responsibility had been systematically diffused until it vanished entirely. [1]
 
@@ -13,6 +13,21 @@ In the investigation that followed, a telling pattern emerged. BP officials poin
 This wasn't just corporate finger-pointing after the fact. The diffusion of responsibility had been baked into the operation from the beginning. When cement tests showed problematic results, BP's engineer Brett Cocales dismissed concerns in an email with a phrase that would later become emblematic of the entire disaster: "Who cares, it's done, end of story." [3]
 
 What does true responsibility look like? For that, we need to travel across the world to another disaster that began unfolding less than a year later.
+
+## The Responsibility Trap: Judging by Outcomes Instead of Results
+
+Before examining the contrasting case, we must acknowledge a dangerous tendency in both business and society: conflating responsibility with results. We often label leaders as "responsible" when things go well and "irresponsible" when they don't. This outcome bias creates a fundamental misunderstanding of what responsibility truly means.
+
+Consider this: A reckless gambler who bets their company's entire reserve on a risky venture might be celebrated as a "visionary" if it pays off, while a thoughtful leader who makes a well-reasoned decision that later fails due to unforeseeable circumstances might be condemned as "irresponsible." This distorted lens leads us to reward luck rather than genuine ownership.
+
+When comparing disaster responses, we must be careful not to fall into this trap. We don't judge responsibility simply by counting casualties or measuring environmental damage. Rather, we recognize specific markers of responsibility that exist independent of results:
+
+1. **Voluntary risk acceptance**: Responsible leaders willingly accept personal risk without equivalent personal gain.
+2. **Decision ownership in uncertainty**: Responsibility means making decisions under conditions of uncertainty rather than waiting for perfect information or deflecting choices to others.
+3. **Stakeholder prioritization**: Responsible leaders place duty to stakeholders above self-protection.
+4. **Consistency between values and actions**: Words and deeds align in responsible leadership.
+
+With these markers in mind, let's examine a contrasting approach to responsibility.
 
 ## Radical Responsibility in Action
 
@@ -30,13 +45,31 @@ In his later testimony, Yoshida explained: "I didn't inform headquarters that we
 
 This wasn't mere insubordination. It was the opposite of what happened at Deepwater Horizon. Instead of narrowing his responsibility to "just following orders," Yoshida expanded his responsibility to encompass whatever it would take to prevent catastrophe – even at the risk of his career and legal standing.
 
+Examining Yoshida's actions against our markers of responsibility:
+
+1. **Voluntary risk acceptance**: Yoshida knowingly risked his career, legal standing, and even his life by staying on site and making difficult decisions. By contrast, BP and Transocean leaders systematically shifted risk away from themselves.
+
+2. **Decision ownership in uncertainty**: Yoshida made clear decisions despite incomplete information, while at Deepwater Horizon, critical decisions were deferred or diluted across multiple parties.
+
+3. **Stakeholder prioritization**: Yoshida's actions consistently prioritized worker safety and public protection over corporate or personal interests, while Deepwater Horizon leadership repeatedly prioritized schedule and cost over safety concerns.
+
+4. **Consistency between values and actions**: Yoshida's statements about protecting his team matched his actions in crisis, while at Deepwater Horizon, safety was verbally prioritized but practically subordinated to commercial concerns.
+
 These two disasters – Deepwater Horizon and Fukushima – reveal a fundamental truth about responsibility that most leadership books overlook: Real responsibility isn't about staying in your lane. It's about expanding your lane when circumstances demand it.
+
+## When Responsibility Fails: The Paradox of Honorable Failure
+
+It's crucial to recognize that responsible leadership doesn't guarantee success. Consider the case of Eugene Kranz during the Apollo 13 crisis. As NASA's Flight Director, Kranz demonstrated extraordinary responsibility by declaring, "Failure is not an option," and personally leading the effort to bring the astronauts home safely.
+
+Yet if external factors had been slightly different—if the oxygen tank had exploded a day later in the mission or if a critical system had failed during reentry—the astronauts might have perished despite Kranz's impeccable responsibility. Would this outcome have made his leadership any less responsible? Absolutely not.
+
+Responsibility is about process, not results. It's about who bears the burden of risk and how decisions are made, not whether those decisions ultimately succeed.
 
 ## The Blame-Dodger's Handbook
 
-Before we examine how to develop this expanded sense of responsibility, let's look at how most "leaders" handle responsibility:
+Before we examine how to develop expanded responsibility, let's look at how most leaders handle responsibility:
 
-1. **The Delegator Extraordinaire**: "I assigned someone to handle that." Translation: "I washed my hands of it faster than Pontius Pilate."
+1. **The Delegator Extraordinaire**: "I assigned someone to handle that." Translation: "I washed my hands of it."
 
 In the Deepwater Horizon disaster, this manifested as critical safety checks that everyone assumed someone else had performed. The blowout preventer – the last-resort safety device designed to seal the well in an emergency – had a dead battery, a leaking hydraulic system, and a disabled critical component. Each company involved assumed someone else was verifying this essential piece of equipment. [9]
 
@@ -52,11 +85,17 @@ The Deepwater Horizon was operating 43 days behind schedule and more than $58 mi
 
 At congressional hearings after the disaster, the finger-pointing continued. Transocean's CEO stated: "BP is the operator of this well... They specified the requirements." BP's CEO responded: "This was Transocean's rig... their systems, their people, their equipment." [12] Team accountability became no accountability.
 
-Congratulations. If you've used any of these, you're not responsible. You're a blame artist with a fancy title.
+## When Irresponsibility Succeeds: The Illusion of Deserved Success
+
+Irresponsible actions sometimes lead to success—creating the dangerous illusion that the success was deserved rather than fortunate.
+
+Wall Street in the years leading up to the 2008 financial crisis provides a perfect example. Many financial leaders made enormously risky decisions with other people's money while protecting their own compensation through guaranteed bonuses and golden parachutes. For years, these decisions appeared brilliant as markets rose and profits soared.
+
+Was this responsibility? No—it was a fundamental abdication of responsibility masked by temporarily favorable outcomes. True responsibility would have meant these leaders sharing meaningfully in the downside risk they were creating, not just the upside.
 
 ## The Antifragile Approach to Responsibility
 
-Want to know what real responsibility looks like? Brace yourself. It's not pretty, but it's powerful:
+If we want to develop genuine responsibility, we must embrace a different approach—one that gets stronger under pressure rather than fragmenting. Here's what real responsibility looks like:
 
 1. **The Buck Stops Everywhere**: You're responsible for everything that happens under your watch. Everything.
 
@@ -74,13 +113,25 @@ The tsunami that struck Fukushima exceeded design parameters. Yet rather than us
 
 Despite the overwhelming pressure at Fukushima, Yoshida maintained a blame-free environment focused on solutions. When workers made mistakes under extreme stress, he emphasized learning rather than punishment. In his testimony, he took personal responsibility for decisions rather than pointing to systemic failures. [16]
 
+## Measuring Responsibility Before Results Are Known
+
+If we can't judge responsibility by outcomes alone, how do we recognize it in real-time? By observing these markers:
+
+- Who is voluntarily stepping into zones of risk and accountability?
+- Who actively seeks to understand and manage consequences beyond their formal role?
+- Who makes explicit choices rather than allowing drift or deferring to "the system"?
+- Who demonstrates awareness of and concern for impact on stakeholders at all levels?
+- Who shows consistency between stated values and actual behaviors?
+
+When we examine the Fukushima and Deepwater Horizon cases through this lens, the responsibility difference becomes clear independent of how either situation ultimately resolved. Yoshida expanded his responsibility horizon far beyond his formal role, while at Deepwater Horizon, responsibility continually contracted as each party sought to minimize their accountability.
+
 ## The Responsibility Equation
 
 Let's make this concrete. Here's the equation you need to understand:
 
 Responsibility = (Ownership × Action) / Excuses
 
-If your excuses are greater than zero, your responsibility trends toward zero. It's simple math, folks.
+If your excuses are greater than zero, your responsibility trends toward zero. It's simple math.
 
 Consider how this equation played out in our two disaster scenarios:
 
@@ -106,7 +157,7 @@ The contrast couldn't be clearer: When responsibility diffuses, disaster expands
 
 ## The Cost of Radical Responsibility
 
-Before you dismiss Yoshida's example as heroic but irrelevant to everyday leadership, consider this: Expanded responsibility always comes with a cost. The question isn't whether you'll pay; it's whether you'll pay willingly or involuntarily.
+Expanded responsibility always comes with a cost. The question isn't whether you'll pay; it's whether you'll pay willingly or involuntarily.
 
 Yoshida's radical responsibility came at profound personal cost:
 - He remained at the plant for weeks, sleeping only 2-3 hours per night
@@ -133,7 +184,7 @@ At Deepwater Horizon, critical safety concerns disappeared into accountability b
 
 ## The Antifragile Responsibility Challenge
 
-Ready to stop being a responsibility poser and start being a responsibility beast? Try this:
+To develop expanded responsibility, try these exercises:
 
 1. **Catastrophe Catalog**: List every major problem in your organization. Write "I am responsible for this" next to each one. Feel uncomfortable? Good. That's responsibility.
 
@@ -156,8 +207,6 @@ After the immediate crisis at Fukushima stabilized, Yoshida focused on building 
 In contrast, the leadership failures at Deepwater Horizon created systems so dependent on individual vigilance that the absence of any single checkpoint could lead to catastrophe. When those checkpoints failed, there was no backup plan, no resilient system to prevent disaster. [27]
 
 Remember: Responsibility isn't about taking credit or avoiding blame. It's about owning outcomes – good, bad, and ugly – and driving relentlessly toward improvement.
-
-Are you ready to stop playing responsibility whack-a-mole and start being the person everyone counts on when the ship is sinking? The choice is yours. But choose quickly – problems don't wait for you to feel ready.
 
 ## From Principle to Practice
 
