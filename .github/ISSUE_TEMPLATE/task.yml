@@ -1,0 +1,20 @@
+name: Task card
+description: Simpel opgave / research / redigering
+title: "[Task]: "
+labels: ["task"]
+body:
+  - type: input
+    id: goal
+    attributes:
+      label: Goal
+      placeholder: Hvad skal løses?
+  - type: input
+    id: due
+    attributes:
+      label: Deadline
+      placeholder: YYYY-MM-DD
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Kommentarer eller links
