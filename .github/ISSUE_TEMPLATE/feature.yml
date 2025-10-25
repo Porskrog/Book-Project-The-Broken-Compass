@@ -1,0 +1,30 @@
+name: Feature card
+description: Feature eller modul til EthiLeader eller andet software
+title: "[Feature]: "
+labels: ["feature", "development"]
+body:
+  - type: input
+    id: goal
+    attributes:
+      label: Goal
+      placeholder: Hvilket problem løser denne feature?
+      validations:
+        required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - P1 - Critical
+        - P2 - High
+        - P3 - Normal
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: Kort beskrivelse af funktion, API'er, UI, edge cases
+  - type: textarea
+    id: test
+    attributes:
+      label: Acceptance / Test cases
+      placeholder: Hvordan valideres featuren?
