@@ -1,0 +1,33 @@
+name: Chapter card
+description: Standardiseret kapitelkort til bogen eller whitepaper
+title: "[Chapter]: "
+labels: ["chapter", "writing"]
+body:
+  - type: input
+    id: objective
+    attributes:
+      label: Objective
+      placeholder: Hvad skal være sandt ved aflevering?
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: Outline
+      placeholder: Sektioner / hovedpointer / budskab
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      placeholder: Links, noter, litteratur, cases
+  - type: input
+    id: dependencies
+    attributes:
+      label: Dependencies
+      placeholder: #123, PR #45, osv.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      placeholder: Givet/Når/Så – hvordan ved vi, at kapitlet er færdigt?
+      render: shell
