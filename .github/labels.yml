@@ -1,0 +1,16 @@
+- name: chapter
+  color: "fbca04"
+  description: Bogkapitler / whitepapers
+- name: writing
+  color: "fef2c0"
+- name: feature
+  color: "0e8a16"
+  description: Produkt- eller spilfunktioner
+- name: development
+  color: "1d76db"
+- name: task
+  color: "d4c5f9"
+  description: Generelle opgaver
+- name: at-risk
+  color: "b60205"
+  description: Risiko for forsinkelse
