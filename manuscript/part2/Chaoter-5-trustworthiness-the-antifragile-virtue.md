@@ -10,11 +10,27 @@ Why? Because you're playing defense, not offense. You're trying not to lose trus
 
 When Boeing executives faced the crisis of competing with Airbus's fuel-efficient A320neo, they didn't set out to create a death trap. They set out to protect Boeing's market share, maintain their competitive position, and meet their quarterly targets. Yet in prioritizing reputation management over fundamental engineering integrity, they set in motion a catastrophic trust collapse that cost 346 lives, billions in market value, and incalculable damage to a century-old corporate legacy. [1]
 
-As a former Boeing engineer later reflected: "We knew there were shortcuts being taken. We knew there were pressures to certify quickly. But there's a cognitive dissonance that sets in—you tell yourself it's probably still safe enough, that the risks are theoretical, that the pilots will figure it out if something goes wrong. You convince yourself because the alternative is too uncomfortable to face." [2]
+As a former Boeing engineer later reflected: "We knew there were shortcuts being taken. We knew there were pressures to certify quickly. But there's a cognitive dissonance that sets in — you tell yourself it's probably still safe enough, that the risks are theoretical, that the pilots will figure it out if something goes wrong. You convince yourself because the alternative is too uncomfortable to face." [2]
+
+They convinced themselves because the alternative was too uncomfortable to face.
+
+At each point, there was an easier option—and it was chosen.
+
+This is how trustworthiness collapses: not through malice, but through convenience.
 
 Compare this with Captain Chesley "Sully" Sullenberger in the moments after both engines failed on US Airways Flight 1549. He wasn't thinking about how his decisions would look to others or how to protect his reputation. His focus was entirely on the foundational responsibility: landing the aircraft in a way that gave his passengers the best chance of survival. [3]
 
 The difference isn't just one of character but of fundamental orientation. Boeing leaders were trapped in reputation management; Sullenberger was engaged in responsibility fulfillment. The former creates brittle trust that shatters under pressure; the latter builds antifragile trustworthiness that actually strengthens when tested.
+
+Pressure explains why trustworthiness becomes costly.
+It does not remove the choice to act with it.
+
+Sullenberger put himself at maximum risk, acting without concern for reputation or narrative.
+
+This is not a model most organisations can rely on.
+It is evidence that trustworthiness can still be chosen.
+
+And that distinction matters.
 
 ## The Taleb Twist
 
